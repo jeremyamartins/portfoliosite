@@ -1,43 +1,46 @@
 let resumeData = {
   "imagebaseurl":"https://techonoeticsclub.github.io/",
-  "name": "Mike",
+  "name": "Jeremy",
   "role": "Full Stack Web Developer",
-  "linkedinId":"https://www.linkedin.com/in/michaelspitaleri/",
-  "roleDescription": " I enjoy creating art on various media, whether through painting, music, or developing web applications.",
+  "linkedinId":"https://www.linkedin.com/in/jeremy-martins-780912182/",
+  "roleDescription": " I enjoy connecting eccentric beings with wild dreams. Weather that be passion searching, world traveling, or design and arts. I support any goal no matter the size. Welcome, my name is Jeremy.",
   "socialLinks":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/michaelspitaleri/",
+        "url":"https://www.linkedin.com/in/jeremy-martins-780912182/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"https://github.com/miketomato13",
+        "url":"https://github.com/jeremyamartins",
         "className":"fa fa-github"
       }
     ],
-  "aboutme":"After many years of sales experience in the real estate and travel industries, I decided to go for a career change and attend Wyncode Academy's Full Stack Web Developer program. There, I made great friends and learned that web development could give me the same feeling of artistic accomplishment as painting. More than that, I've also grown to love working on the backend, creating fluid database architecture and learning how to tie a user authenticated based site together. Overall, Wyncode was a great experience and I'd recommend it to anyone.",
-  "address":"Hollywood, FL, USA",
-  "website":"michaelaspitaleri@gmail.com",
+  "aboutme":"After several years in the Hardware Repair industry and Corperate America, I decided to go for a career change and attend Wyncode Academy's Full Stack Web Developer program. There, I made great friends and learned that web development could give me the same feeling of personal development as Repairing Devices and customer to connoisseur relationships. More than that, I've also grown to love working on the backend, creating fluid database architecture and learning how to tie a user authenticated based site together. Overall, Wyncode was a great experience and I'd recommend it to anyone.",
+  "address":"Miami, FL, USA",
+  "website":"mapthecoder@gmail.com",
   "education":[
     {
       "UniversityName":"Wyncode Academy",
       "specialization":"Full Stack Web Developer Program",
-      "MonthOfPassing":"March",
+      "MonthOfPassing":"June",
       "YearOfPassing":"2019",
-      "Achievements":"Completed two great projects: Beautify, a web app that allows artists to more easily connect with projects worldwide and Brewfinder, a simple brewery finder application for my friends to more easily find breweries while traveling. Learned HTML/CSS, JavaScript, JQuery, React.js, Ruby, and full backend development through Ruby on Rails."
+      "Achievements":"Completed two great projects: ChargR, a web app that allows an EV owner to more easily find charging stations nearby on a range by vehicle basis, along with an awesome starwars data base made for any nerd to learn more about the episodes or characters available better known as WynWars. Learned HTML/CSS, JavaScript, JQuery, React.js, Ruby, and full backend development through Ruby on Rails."
     }
   ],
   "work":[
     {
-      "CompanyName":"OnPoint Global",
-      "specialization":"Software Engineer, Data Analytics",
-      "Achievements":"Front end development related to the SmartPath, creating view filters based on advertisers needs, analyzing data to ensure each advertisers campaign is successful not only for the advertiser, but for OnPoint as well."
+      "CompanyName":"Freelance",
+      "specialization":"Design, Data Analytics, Machine Learning & Artificial Intellagence",
+      "Achievements":"My Expertise:",
+      "Achievementslist1":"• Create dynamic user interfaces, solve input errors & integrate user data",
+      "Achievementslist2":"• Help develop operating software that can be used for robots, artificial intelligence programs or other artificial intelligence applications ",
+      "Achievementslist3":"• My focus goes beyond specifically programming machines to perform specific tasks. I work & study to create programs that will enable machines to take actions without being specifically directed to perform those tasks."
     },
     {
-      "CompanyName":"Costa Bella Realty Group",
-      "specialization":"Realtor, Marketing",
-      "Achievements":"Handled content creation and assisted in overall design of the web site. Assisted in the management of a brokerage that closed over $22million in business for 2018. I have been an active Florida Real Estate Agent since 2012."
+      "CompanyName":"Multiverse Aerospace Partners ",
+      "specialization":"IT Routing, Market Surfing, Web Dev. & Design",
+      "Achievements":"Handled content creation and assisted in overall design of the web site. Assisted in the Management of Aerospace brokerage that closed over $2 million in business for 2018. I have worked closely with the sales and development sales side of M.A.P. since the start-up as I have a personal relationship with the owner."
     },
   ],
   "skillsDescription":"Languages, Frameworks, & Libraries",
@@ -58,21 +61,33 @@ let resumeData = {
       "skillname":"Ruby"
     },
     {
-      "skillname":"jQuery"
+      "skillname":"rails"
+    },
+    {
+      "skillname":"sql"
+    },
+    {
+      "skillname":"api"
+    },
+    {
+      "skillname":"r"
+    },
+    {
+      "skillname":"python"
     }
   ],
   "portfolio":[
     {
-      "name":"Miami Ridez",
-      "description":"Very cool Miami Bike Station Search App made with MapBox GL, and citybike API. Send out to your friends to find bikes while on vacay!",
-      "imgurl":"images/portfolio/miamiridez.jpg",
-      "url":"https://miamiridez.netlify.com/"
+      "name":"ChargR",
+      "description":"Very cool EV Charging Station Search App made with MapBox GL, and NREL API. Plan your trip with confidence!",
+      "imgurl":"images/portfolio/chargRpic.jpg",
+      "url":"https://chargr.herokuapp.com/"
     },
     {
-      "name":"Beautify",
+      "name":"Wynwars",
       "description":"Web Application, Final Project at Wyncode. More easily connects artists with project opportunities nation wide. Created API for users, artists, listings, and offers. Integrated with the Stripe API for payment. ",
-      "imgurl":"images/portfolio/beautify.jpg",
-      "url":"https://beautifyapp.herokuapp.com"
+      "imgurl":"images/portfolio/wynwarspic.png",
+      "url":"https://wynwars-jeremy.herokuapp.com/"
     },
     {
       "name":"brewfinder",
@@ -95,7 +110,7 @@ let resumeData = {
   ],
   "testimonials":[
     {
-      "description":"This guy really is TECH MIKE!",
+      "description":"This guy really is TECH Jeremy!",
       "name":"Eduardo Iglesias"
     },
     {

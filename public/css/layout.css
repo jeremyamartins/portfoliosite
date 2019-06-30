@@ -52,7 +52,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
@@ -95,7 +95,7 @@ header .social li {
    padding: 0;
 }
 header .social li a { color: #fff; }
-header .social li a:hover { color: #11ABB0; }
+header .social li a:hover { color: cornflowerblue; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -117,7 +117,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #11ABB0; }
+header .scrolldown a:hover { color: cornflowerblue; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -179,7 +179,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: cornflowerblue; }
 
 
 /* ------------------------------------------------------------------ */
@@ -194,7 +194,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 #about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #11ABB0; }
+#about a:hover, #about a:focus { color: cornflowerblue; }
 
 #about h2 {
    font: 30px/40px 'opensans-bold', sans-serif;
@@ -204,7 +204,7 @@ ul#nav li.current a { color: #F06000; }
 #about p {
    line-height: 30px;
    font-size: 16px;
-   color: #7A7A7A;
+   color: cornflowerblue;
 }
 #about .profile-pic {
    position: relative;
@@ -243,7 +243,7 @@ ul#nav li.current a { color: #F06000; }
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #11ABB0; }
+#resume a, #resume a:visited  { color: cornflowerblue; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
@@ -252,7 +252,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #11ABB0;
+   border-bottom: 3px solid cornflowerblue;
    padding-bottom: 6px;
 }
 #resume h3 {
@@ -319,7 +319,7 @@ ul#nav li.current a { color: #F06000; }
 
    margin: 0;
    padding-right: 24px;
-  	background: #313131;
+  	background: cornflowerblue;
    display: inline-block;
   	height: 42px;
    line-height: 42px;
@@ -342,23 +342,23 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: wordpress 2s ease;
 }
 .css {
-  	width: 70%;
+  	width: 95%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
 .html5 {
-  	width: 80%;
+  	width: 88%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
 .reactjs {
-  	width: 72%;
+  	width: 75%;
   	-moz-animation: reactjs 2s ease;
   	-webkit-animation: reactjs 2s ease;
 }
 
 .ruby {
-  width: 80%;
+  width: 73%;
   -moz-animation: reactjs 2s ease;
   -webkit-animation: reactjs 2s ease;
 }
@@ -369,17 +369,34 @@ ul#nav li.current a { color: #F06000; }
   -webkit-animation: reactjs 2s ease;
 }
 
-.jquery {
-  width: 70%;
+.sql {
+  width: 50%;
   -moz-animation: reactjs 2s ease;
   -webkit-animation: reactjs 2s ease;
 }
 
 .rails {
-  width: 75%;
+  width: 73%;
   -moz-animation: reactjs 2s ease;
   -webkit-animation: reactjs 2s ease;
 }
+
+.api {
+   width: 80%;
+   -moz-animation: reactjs 2s ease;
+   -webkit-animation: reactjs 2s ease;
+ }
+
+ .r {
+   width: 5%;
+   -moz-animation: reactjs 2s ease;
+   -webkit-animation: reactjs 2s ease;
+ }
+ .python {
+   width: 5%;
+   -moz-animation: reactjs 2s ease;
+   -webkit-animation: reactjs 2s ease;
+ }
 
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
@@ -577,7 +594,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 3px;
    cursor: pointer;
 }
-.popup-modal a:hover {	color: #00CCCC; }
+.popup-modal a:hover {	color: cornflowerblue; }
 .popup-modal a.popup-modal-dismiss { margin-left: 24px; }
 
 
@@ -820,8 +837,8 @@ call-to-action .button {
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #11ABB0; }
-#contact a:hover, #contact a:focus { color: #fff; }
+#contact a, #contact a:visited  { color: #eee;; }
+#contact a:hover, #contact a:focus { color: cornflowerblue; }
 
 #contact h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
@@ -850,6 +867,7 @@ call-to-action .button {
 #contact p.lead {
    font: 18px/36px 'opensans-light', sans-serif;
    padding-right: 3%;
+   color: #eee;
 }
 #contact .header-col { padding-top: 6px; }
 
@@ -881,7 +899,7 @@ call-to-action .button {
 #contact textarea:focus,
 #contact select:focus {
 	color: #fff;
-	background-color: #11ABB0;
+	background-color: cornflowerblue;
 }
 #contact button.submit {
 	text-transform: uppercase;
@@ -911,8 +929,8 @@ call-to-action .button {
    width: 65%;
    margin-left: 26%;
 }
-#message-warning { color: #D72828; }
-#message-success { color: #11ABB0; }
+#message-warning { color: crimson; }
+#message-success { color: cornflowerblue; }
 
 #message-warning i,
 #message-success i {
@@ -1027,4 +1045,4 @@ footer .social-links li:first-child { margin-left: 0; }
    line-height: 60px;
  	border-radius: 100%;
 }
-#go-top a:hover { background-color: #0F9095; }
+#go-top a:hover { background-color: cornflowerblue; }

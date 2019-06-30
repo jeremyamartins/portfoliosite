@@ -1,3 +1,4 @@
+// import './App.css';
 import React, { Component } from 'react';
 export default class Footer extends Component {
   render() {
@@ -5,6 +6,7 @@ export default class Footer extends Component {
     return (
       <footer>
       <div className="row">
+        <h1 id="h1footer">From Planet Earth</h1>
         <div className="twelve columns">
           <ul className="social-links">
             {

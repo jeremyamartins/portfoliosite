@@ -17,14 +17,14 @@ export default class About extends Component {
                </p>
                <div className="row">
                   <div className="columns contact-details">
-                  <h2>Contact Details</h2>
+                  <h2>Contact</h2>
                   <p className="address">
        						   <span>
-                        Michael Angelo Spitaleri
+                        Jeremy Anthony Martins
                      </span>
                      <br/>
                      <span>
-                        (954) 895-0199
+                        (901) 832-0476
                      </span>
                      <br/>
                      <span>

@@ -47,7 +47,16 @@ export default  class Resume extends Component {
                           {item.specialization}
                           <span>&bull;</span> <em className="date">{item.MonthOfLeaving} {item.YearOfLeaving}</em></p>
                           <p>
-                          {item.Achievements}
+                          <strong>{item.Achievements}</strong>
+                          </p>
+                          <p>
+                          {item.Achievementslist1}
+                          </p>
+                          <p>
+                          {item.Achievementslist2}
+                          </p>
+                          <p> 
+                          {item.Achievementslist3}
                           </p>
                        </div>
 
