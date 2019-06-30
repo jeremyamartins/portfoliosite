@@ -16,7 +16,7 @@ let resumeData = {
         "className":"fa fa-github"
       }
     ],
-  "aboutme":"After several years in the Hardware Repair industry and Corperate America, I decided to go for a career change and attend Wyncode Academy's Full Stack Web Developer program. There, I made great friends and learned that web development could give me the same feeling of personal development as Repairing Devices and customer to connoisseur relationships. More than that, I've also grown to love working on the backend, creating fluid database architecture and learning how to tie a user authenticated based site together. Overall, Wyncode was a great experience and I'd recommend it to anyone.",
+  "aboutme":"After several years in the Hardware Repair industry and Sales, I decided to go for a career change and attend Wyncode Academy's Full Stack Web Developer program. There, I made great friends and learned that web development could give me the same feeling of inner radiance as Repairing Devices and customer to connoisseur relationships. More than that, I've also grown to love working on the backend, creating fluid database architecture and learning how to tie a user authenticated based site together. Overall, Wyncode was a great experience and I'd recommend it to anyone.",
   "address":"Miami, FL, USA",
   "website":"mapthecoder@gmail.com",
   "education":[
@@ -85,15 +85,9 @@ let resumeData = {
     },
     {
       "name":"Wynwars",
-      "description":"Web Application, Final Project at Wyncode. More easily connects artists with project opportunities nation wide. Created API for users, artists, listings, and offers. Integrated with the Stripe API for payment. ",
+      "description":"Wynwars is a Front-end Application for interacting with the swapi API to look up various Star Wars Facts and Figures. ",
       "imgurl":"images/portfolio/wynwarspic.png",
       "url":"https://wynwars-jeremy.herokuapp.com/"
-    },
-    {
-      "name":"brewfinder",
-      "description":"Web Application, simple brewery finder made for people to more easily locate breweries nation wide. Created with MapboxGL API and Open Brewery Finder DB API.",
-      "imgurl":"images/portfolio/brew2.jpg",
-      "url":"https://brewfinder.netlify.com/"
     },
     {
       "name":"Costa Bella Realty Group",
@@ -102,28 +96,10 @@ let resumeData = {
       "url":"https://www.costabellarealtygroup.com"
     },
     {
-      "name":"Art Website Mockup",
-      "description":"a simple HTML/CSS practice, mocking up a basic gallery page for the artist Joe Spit in NYC.",
-      "imgurl":"images/portfolio/art_mockup.jpg",
+      "name":"Youtube Website Mockup",
+      "description":"a simple HTML/CSS practice, mocking up Youtubes explore page for the late artist Mac Miller.",
+      "imgurl":"images/portfolio/youtubeproject.png",
       "url":"www.comingsoon.com"
-    }
-  ],
-  "testimonials":[
-    {
-      "description":"This guy really is TECH Jeremy!",
-      "name":"Eduardo Iglesias"
-    },
-    {
-      "description":"I've never seen anyone score three goals in a row like that.",
-      "name":"Milad Zolnoor"
-    },
-    {
-      "description":"What a Team Player!",
-      "name":"Don Morehouse"
-    },
-    {
-      "description":"sigh, okay, headphones it is..",
-      "name":"Izzy Martinez"
     }
   ]
 }
