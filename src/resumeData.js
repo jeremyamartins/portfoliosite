@@ -1,9 +1,9 @@
 let resumeData = {
   "imagebaseurl":"https://techonoeticsclub.github.io/",
   "name": "Jeremy",
-  "role": "Full Stack Web Developer",
+  "role": "and I build Machine Learning Software",
   "linkedinId":"https://www.linkedin.com/in/jeremy-martins-780912182/",
-  "roleDescription": " I enjoy connecting eccentric beings with wild dreams. Weather that be passion searching, world traveling, or design and arts. I support any goal no matter the size. Welcome, my name is Jeremy.",
+  "roleDescription": " Through technology, I will prolong human life span. Visit some of my work below and feel free to contact for more information.",
   "socialLinks":[
       {
         "name":"linkedin",
@@ -74,6 +74,9 @@ let resumeData = {
     },
     {
       "skillname":"python"
+    },
+    {
+      "skillname":"tensorflow"
     }
   ],
   "portfolio":[
