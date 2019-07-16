@@ -93,10 +93,10 @@ let resumeData = {
       "url":"https://wynwars-jeremy.herokuapp.com/"
     },
     {
-      "name":"Costa Bella Realty Group",
-      "description":"Created Blog content and assisted in UX/UI Design of the site.",
-      "imgurl":"images/portfolio/cbrg.jpg",
-      "url":"https://www.costabellarealtygroup.com"
+      "name":"Modrn Repairs",
+      "description":"Created a personal web-app to highlight my hardware repair skills. Website is still under construction as I work consistently to improve my preformance. Please contact me below for inquiries on device repairs. Thanks! ",
+      "imgurl":"images/portfolio/modRn.png",
+      "url":"www.comingsoon.com"
     },
     {
       "name":"Youtube Website Mockup",
