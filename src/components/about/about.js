@@ -20,7 +20,7 @@ export default class About extends Component {
                   <h2>Contact</h2>
                   <p className="address">
        						   <span>
-                        Jeremy Anthony Martins
+                        Jeremy Martins
                      </span>
                      <br/>
                      <span>
